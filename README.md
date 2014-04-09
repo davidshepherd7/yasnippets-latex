@@ -1,13 +1,15 @@
---- What is it? ---
+What is it?
+-----------
 
-Yasnippets-latex is a bundle of LaTeX[1] snippets for use with the
-YASnippet[2] template system for Emacs[3]. 
+Yasnippets-latex is a bundle of [LaTeX][1] snippets for use with the
+[YASnippet][2] template system for [Emacs][3].
 
 [1]: http://www.latex-project.org/
 [2]: http://code.google.com/p/yasnippet/
 [3]: http://www.gnu.org/software/emacs/
 
---- Thanks ---
+Thanks
+------
 
 This snippet bundle has been created in collaboration by:
 Mads D. Kristensen
@@ -19,7 +21,8 @@ Kevin Lynch
 Marcio M. Ribeiro
 Rasmus Borgsmidt
 
---- Licencing stuff ---
+Licencing stuff
+---------------
 
 Copyright (c) 2010, Mads D. Kristensen <madsdk@gmail.com>
 
@@ -36,8 +39,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-
---- Installation ---
+Installation
+------------
 
 In order to use these snippets you need to install Emacs, AucTeX,
 RefTeX, and YASnippet. Once that is done installation is done by
