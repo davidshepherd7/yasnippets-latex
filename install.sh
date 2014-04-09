@@ -4,6 +4,7 @@
 if [ "$1" = "" ]; then
 	echo "Usage: ./install.sh yasnippet-dir"
 	echo "Example: ./install.sh ~/.emacs.d/plugins/yasnippet"
+	echo "For el-get users: ./install.sh ~/.emacs.d/el-get/yasnippet"
 	exit 1
 fi
 
