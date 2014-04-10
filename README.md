@@ -46,7 +46,8 @@ In order to use these snippets you need to install Emacs, AucTeX,
 RefTeX, and YASnippet. Once that is done installation is done by
 simply copying the files .yas-parents, .yas-ignore-filenames-as-triggers,
 .yas-make-groups, and the snippets into the 'snippets/latex-mode'
-subdirectory within your YASnippet installation.
+subdirectory within your YASnippet installation. It may also be advisable 
+to delete the existing latex snippets (to prevent clashes).
 
 You can also use the installation script install.sh. The script takes 
 a single argument which is the directory in which you have installed
